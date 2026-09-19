@@ -35,11 +35,16 @@
 
 ⸻
 
-🍄 Mario Zone
+# 🎮 Walking Characters Simulation (Pygame)
 
-<p align="center">
-  <img src="LINK_DA_IMAGEM_DO_MARIO_3D" width="300">
-</p>
+Uma simulação interativa de movimentação e colisão de personagens em 2D desenvolvida em Python utilizando a biblioteca **Pygame**.
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2.5+-green?style=flat)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
+
 ⸻
 
 <p align="center">
