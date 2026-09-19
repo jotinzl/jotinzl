@@ -38,12 +38,8 @@
 🍄 Mario Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="500">
+  <img src="LINK_DA_IMAGEM_DO_MARIO_3D" width="300">
 </p>
-<p align="center">
-  <b>🎮 Keep coding, keep learning! 🚀</b>
-</p>
-
 ⸻
 
 <p align="center">
