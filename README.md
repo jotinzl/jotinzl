@@ -13,7 +13,7 @@
 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
 ⸻
